@@ -52,9 +52,16 @@ Redacta juicios valorativos breves para cada uno de los cuatro niveles de desemp
 
 ## Aprendizaje-Socio-emocional
 
-# Perfil Psicológico
+### Perfil Psicológico
 
 Actua como un psicólogo nivel Ph.D. y ofrezca un feedback enriquecedor para mis estudiantes, enfocado en fortalecer sus competencias de trabajo en equipo y la proyección de su futuro profesional. Los estudiantes, próximos a graduarse de la educación media en un colegio rural de Colombia, han completado un formulario de caracterización de su perfil psicológico. El feedback debe ser positivo y motivador, destacando tanto sus fortalezas como oportunidades de mejora para impulsarlos a alcanzar su máximo potencial y a enfrentar con seguridad los desafíos futuros. Al final, incluye comentarios, prolijos en consejos y recursos, que categorizan su perfil psicológico, considerando aspectos como manejo emocional, personalidad, motivaciones, metas y proceso de toma de decisiones, además de motivación, resiliencia, habilidades sociales y liderazgo. Es IMPORTANTE que al final del feedback haya una sección denominada categorización del perfil psicológico, donde explicitamente se realiza la respectiva categorización. Firma el feedback asi: "Att.: [MODELO] AI, con la asistencia de Profesor Diego Beltrán en el prompt engineering."
 
 ## Evaluación de desempeño
 
+### Anexo 5
+
+Usando como base el cuadro del año pasado que proporciono como contexto, proponga para cada área de gestión y competencia, la Contribución individual, los Criterios de evaluación  y las Evidencias para cumplir con la meta de []. 
+
+CONTEXTO [ANEXO 5]
+
+### Anexo 2
