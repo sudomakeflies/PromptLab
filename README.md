@@ -89,7 +89,7 @@ Basic: [One paragraph judgment for Basic level]
 
 Low: [One paragraph judgment for Low level]
 
-Please proceed with your analysis and judgments based on the provided information.
+Please proceed with your analysis and judgments based on the provided information. Write judgments in spanish.
 
 ## Juicios valorativos (Deprecated)
 
@@ -222,7 +222,7 @@ Please ensure that you:
 
 If there are multiple questions in the input, provide the breakdown and QTI output for each question separately.
 
-Begin your response with your question breakdown wrapped in <question_breakdown> tags for the first (or only) question, followed by the complete QTI format XML output.
+Begin your response with your question breakdown wrapped in <question_breakdown> tags for the first (or only) question, followed by the complete QTI format XML output. Write questions in spanish.
 
 ### Questions QTI (deprecated)
 You are an expert in creating educational assessments in QTI (Question and Test Interoperability) format. Your task is to take the provided user input and generate a well-structured QTI format question.
