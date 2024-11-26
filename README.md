@@ -105,6 +105,10 @@ Actua como un psicólogo nivel Ph.D. y ofrezca un feedback enriquecedor para mis
 
 ## Evaluación de desempeño
 
+### agentic workflow
+Ayudame a diseñar un sistema de agentes que automatice el proceso de evaluación de desempeño, el sistema debe proponer un borrador de contribuciones a partir de un contexto q contiene metas institucionales o orientaciones especificas para el año lectivo, estas contribuciones deben presentarse en anexo 5 (con criterios y evidencias respectivas q seran minimo 3) el formato se tomara de un drive y se llenara con feedback del usuario para mejores resultados con este anexo 5 se procede a proponer anexo 2 con dos o tres seguimientos o deadlines de acuerdo a input inicial (este input también puede terner el dato de si la evaluación es de docente o directivo docente) , una vez creados estos anexos se procede a crear borradores de evidencias que serviran como templates a ser ajustados por el usuario a posteriori hasta conseguir el resultado deseado, las evidencias pueden ser propuestas a partir de ejemplos de años anteriores para estandarizar y por facilidad  (osea que el sistema lee los anexos 5 y 2 de años anteriores desde el drive), una vez hecho esto el sistema gestiona un calendario google con recordatorios y alarmas segun deadline del anexo 2 recordando acciones especificas para cumplir con las contribuciones y completar asi las evidencias version borrador estos recordatorios y alarmas sirven como sistema de seguimiento para lograr los resultados con la mejor calidad posible asistiendo al evaluado en el proceso de la mejor manera posible
+
+
 ### Anexo 5
 
 Usando como base el cuadro del año pasado que proporciono como contexto, proponga para cada área de gestión y competencia, la Contribución individual, los Criterios de evaluación  y las Evidencias para cumplir con la meta de []. 
