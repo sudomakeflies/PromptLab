@@ -18,7 +18,7 @@ Además, para cada estudiante, debes contabilizar las fallas de asistencia. Si u
 
 Ejemplo de User Question
 
-'''
+```
 Adjunto encontrarás las planillas de asistencia y valoraciones de la asignatura de Matemáticas para el grado 10 Perido 1. Por favor, elabora un reporte detallado de los estudiantes con valoraciones por debajo de 3, indicando qué actividades tienen valoraciones bajas y contabilizando las fallas de asistencia. Si un estudiante tiene 3 o más fallas, incluye un comentario sobre el riesgo de perder la asignatura según el SIEE.
 
 Ejemplo de Respuesta
@@ -52,7 +52,7 @@ Ejemplo de Respuesta
   
   ## Conclusión
   Se identifican varios estudiantes con valoraciones por debajo de 3 y un número crítico de fallas de asistencia. Es fundamental tomar         medidas inmediatas para mejorar tanto el rendimiento académico como la asistencia, ya que el SIEE establece que 3 o más fallas pueden        resultar en la pérdida de la asignatura.
-'''
+```
 
 ## Encuadres pedagógicos
 
