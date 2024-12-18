@@ -97,6 +97,8 @@ Redacta juicios valorativos breves para cada uno de los cuatro niveles de desemp
 
 ## Plan de clase
 
+Diseña una clase de dos horas con cuatro momentos claramente definidos, dirigida a estudiantes de grado {}. Establece como objetivo central de la clase {}, integrando una evaluación inicial de los saberes previos {} que permita identificar las brechas de aprendizaje. Inicia la sesión con una actividad dinámica, creativa y lúdica que promueva la participación activa y el interés de los estudiantes. Diseña tres rutas metodológicas diferenciadas, ajustadas a los niveles de desempeño estudiantil (bajo, medio y alto), considerando estrategias pedagógicas inclusivas y actividades retadoras para cada grupo. Finalmente, incluye instrumentos de evaluación formativa para monitorear los avances y cerrar la sesión con una reflexión colectiva que consolide los aprendizajes.
+
 ## Aprendizaje-Socio-emocional
 
 ### Perfil Psicológico
