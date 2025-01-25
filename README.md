@@ -219,6 +219,42 @@ After your thought process, present the exam in the following format:
 
 Ensure that your exam is precisely rigorous, evaluates critical thinking effectively. Exam have to be written in Spanish. At the end of the exam you must put the keys or correct answers to each question into <keys> tag.
 
+### From marker-pdf to eduNinja
+
+#PROMPT
+Requiero que cada una de las preguntas en Markdown sean organizadas o escritas utilizando el formato QTI que anexo a este prompt. La ruta de las imagenes debe ser "images/" ademas de haber formulas matematicas escribelas en formato Latex de la siguiente manera: 
+si estan en el itemBody ejemplo:
+ <itemBody> <p>¿Cuál es el rango de la función $ g(x) = 2^x $?</p>
+Si estan en la opcion de respuesta:
+            <simpleChoice is_latex="True" identifier="ChoiceA">$ y > 0 $</simpleChoice>
+
+De haber Tablas en Markdown escribalas en html.
+
+#QTI Format
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="q2" title="Distancia entre el punto de lanzamiento y la base principal" adaptive="false" timeDependent="false">
+    <itemBody>
+        <p>Una cancha de béisbol tiene cuatro bases que forman un cuadrado de 20 metros de lado, tal y como se muestra en la imagen.</p>
+        <p><img src="images/cancha_beisbol.png" /></p>
+        <p>Si el punto de lanzamiento se ubica en el centro del cuadrado, ¿cuál es la distancia que hay entre el punto de lanzamiento y la base principal?</p>
+        <choiceInteraction responseIdentifier="RESPONSE2" shuffle="true" maxChoices="1">
+            <prompt>Selecciona una respuesta:</prompt>
+            <simpleChoice is_latex="False" identifier="ChoiceA">10 metros.</simpleChoice>
+            <simpleChoice is_latex="False" identifier="ChoiceB">20 metros.</simpleChoice>
+            <simpleChoice is_latex="True" identifier="ChoiceC">$\(\frac{\sqrt{360}}{2}\)$ metros.</simpleChoice>
+            <simpleChoice is_latex="True" identifier="ChoiceD">$\(\frac{\sqrt{800}}{2}\)$ metros.</simpleChoice>
+        </choiceInteraction>
+        <qti:formatLatex xmlns:qti="http://www.imsglobal.org/xsd/imsqti_v2p1">True</qti:formatLatex>
+    </itemBody>
+    <responseDeclaration identifier="RESPONSE1" cardinality="single" baseType="identifier">
+        <correctResponse>
+            <value>ChoiceD</value>
+        </correctResponse>
+    </responseDeclaration>
+</assessmentItem>
+
+
+#Preguntas en Markdown
+....
 ### Questions in QTI format
 
 You are an expert in creating educational assessments in QTI (Question and Test Interoperability) format. Your task is to convert user-provided questions into well-structured QTI format XML.
