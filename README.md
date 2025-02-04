@@ -54,6 +54,9 @@ Ejemplo de Respuesta
   Se identifican varios estudiantes con valoraciones por debajo de 3 y un número crítico de fallas de asistencia. Es fundamental tomar         medidas inmediatas para mejorar tanto el rendimiento académico como la asistencia, ya que el SIEE establece que 3 o más fallas pueden        resultar en la pérdida de la asignatura.
 ```
 
+## Informe evaluaciones diagnósticas
+Teniendo en cuenta las notas y las preguntas que relaciono a continuación, requiero un informe tecnico pedagogico sobre la prueba diagnostica de grado 8 de la ietc san juan bosco area de matematicas, realiza un analisis de las competencias (de acuerdo al MEN Colombia) y un calculo de cada competencia evaluada de 0 a 100.  Realiza un plan de mejoramiento para afrontar el nivel de los estudiantes segun los resultados encontrados.
+
 ## Encuadres pedagógicos
 
 Con nivel de Ph.D. en Pedagogía escribe un encuadre pedagógico para la institución educativa [IE], el grado [GRADO] en el área de [ÁREA]. Debe estar diseñado para el [NÚMERO] periodo académico, abarcando aproximadamente [NÚMERO] semanas a partir de [FECHA INICIAL]. 
